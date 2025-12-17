@@ -1,0 +1,2 @@
+ros_pyparrot
+-DCATKIN_DEVEL_PREFIX=/home/lyh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lyh/catkin_ws/install -G Unix Makefiles

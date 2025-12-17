@@ -1,0 +1,8 @@
+prefix=/home/lyh/catkin_ws/install
+
+Name: ros_pyparrot
+Description: Description of ros_pyparrot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
